@@ -69,8 +69,8 @@ plugin = NekroPlugin(
     module_name="ai_voice_plus",
     description="提供AI语音生成功能，支持将文本转为AI合成语音",
     version="0.1.0",
-    author="KroMiose",
-    url="https://github.com/KroMiose/nekro-agent",
+    author="xiaojiu",
+    url="https://github.com/miuzhaii/ai_voice_plus/",
     support_adapter=["onebot_v11"],
 )
 

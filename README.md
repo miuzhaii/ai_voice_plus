@@ -102,7 +102,7 @@ ai_voice_plus/
 
 ## 👨‍💻 作者
 
-**KroMiose**
+**xiaojiu**
 
 ## 🔗 相关链接
 
